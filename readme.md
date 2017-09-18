@@ -99,7 +99,7 @@ sbt
 ```
 and run the tests
 ```sh
-testOnly com.thoughtworks.WaiterSpec
+testOnly au.com.ecaporali.unfiltered.WaiterSpec
 ```
 
 ## Challenge 2
@@ -111,7 +111,7 @@ sbt
 ```
 and run the tests
 ```sh
-testOnly com.thoughtworks.RestaurantHandlerSpec
+testOnly au.com.ecaporali.unfiltered.RestaurantHandlerSpec
 ```
 
 ## Challenge 3

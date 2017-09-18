@@ -1,4 +1,4 @@
-organization := "com.thoughtworks"
+organization := "au.com.ecaporali"
 
 name := "unfiltered-workshop"
 
